@@ -14,7 +14,7 @@ const links = [
   { label: "About", href: "/about" },
   { label: "Projetos", href: "/projetos" },
   { label: "Setup", href: "/setup" },
-  { label: "Contact", href: "/contato" },
+  { label: "Contato", href: "/contato" },
 ];
 
 export default function Navigation() {
