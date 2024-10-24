@@ -16,9 +16,9 @@ export default function QuickLinks() {
           <FaGithub className="text-xl" />
           <div className="flex gap-1">
             <h1>
-              <GitHubRepoCount username="v.maarcos" />
+              <GitHubRepoCount username="vmaarcos" />
             </h1>
-            <span> Repositorios</span>
+            <span> Repositorios </span>
           </div>
         </Link>
       </li>
@@ -30,7 +30,7 @@ export default function QuickLinks() {
         >
           <FaLinkedin className="w-5 h-5" />
           <div>
-            335
+            656
             <span> Conexão </span>
           </div>
         </Link>
