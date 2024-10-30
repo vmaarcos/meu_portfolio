@@ -18,7 +18,7 @@ const links = [
 ];
 
 export default function Navigation() {
-  const pathname = `/${usePathname().split("/")[1]}`; // active paths on dynamic subpages
+  const pathname = `/${usePathname().split("/")[1]}`; 
 
   return (
     <MotionNav className={clsx("relative md:sticky top-0 z-20 backdrop-blur")}>

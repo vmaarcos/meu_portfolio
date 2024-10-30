@@ -30,9 +30,9 @@ export default function About() {
             className="flex flex-col gap-6 animate-in"
             style={{ "--index": 4 }}
           >
-            <h1>Hello World, E&apos;u sou Marcos!</h1>
+            <h1>Hello World, Eu sou Marcos!</h1>
             <p>
-            Meu nome é Marcos Vinicios, tenho 18 anos e nasci em 2006. Sou homem negro e sempre morei na periferia. 
+            Meu nome é Marcos Vinicios, tenho 18 anos e nasci em 2006. sempre morei na periferia. 
             Nasci em Taboão da Serra, mas atualmente moro em Ferraz de Vasconcelos, no extremo leste de São Paulo. 
             Aos 17 anos, no meu último ano do ensino médio, vi na tecnologia uma oportunidade de transformar minha vida. 
             Sempre gostei de passar o dia no computador, então foi algo que se encaixou perfeitamente.
