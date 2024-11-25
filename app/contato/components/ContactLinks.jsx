@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { EnvelopeIcon } from "@heroicons/react/24/outline";
 
 const ContactLinks = [
@@ -17,6 +17,11 @@ const ContactLinks = [
     label: "Instagram",
     href: "https://www.instagram.com/v.maarcos_/",
     icon: <FaInstagram />,
+  },
+  {
+    label: "Whatsapp",
+    href: "https://api.whatsapp.com/send?phone=5511948502101&text=Olá%20👋%20vim%20pelo%20seu%20portfolio.",
+    icon: <FaWhatsapp />,
   },
   {
     label: "LinkedIn",

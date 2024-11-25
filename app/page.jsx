@@ -54,7 +54,7 @@ export default function Home() {
           </li>
           <li className="transition-opacity">
             <Link
-              href="/contact"
+              href="/contato"
               className="flex items-center gap-2 no-underline"
             >
               <UserGroupIcon className="h-5 w-5" />
