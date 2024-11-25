@@ -9,12 +9,6 @@ Este projeto é predominantemente focado no desenvolvimento front-end.
 ### Frontend:
 
 - [Tailwind CSS](https://tailwindcss.com/) - utilizado para a estilização geral do projeto.
-- [Radix Primitives](https://www.radix-ui.com/primitives) - utilizado para algumas animações de UI.
-- [Radix Colors](https://www.radix-ui.com/colors) - responsável pela paleta de cores do projeto.
-- [Framer Motion](https://www.framer.com/motion/) - utilizado para animações interativas.
-- [Headless UI](https://headlessui.com/) - para componentes de UI sem estilo pré-definido.
-- [Heroicons](https://heroicons.dev/) - utilizado para ícones simples e eficazes.
-- [React Icons](https://react-icons.github.io/react-icons/) - utilizado para diversos ícones.
 
 ### Backend:
 
