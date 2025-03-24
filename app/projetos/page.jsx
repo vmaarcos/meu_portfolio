@@ -2,6 +2,7 @@ import Section from "@/components/Section";
 import Image from "next/image";
 import parttida from "@/public/images/parttida.jpeg";
 import ecommerce from "@/public/images/ecommerce.jpeg";
+import resumeAI from "@/public/images/resumeAI.jpeg";
 
 export const metadata = {
   title: "v.maarcos | Projetos",
@@ -26,6 +27,21 @@ export default function Contact() {
       >
         <Section heading="Projetos" headingAlignment="right">
   <div className="flex flex-col w-full gap-6">
+     {/* Projeto Resume-AI */}
+     <div className="flex flex-col items-center">
+      <h2 className="text-xl font-semibold text-green-600">Resume-AI</h2>
+      <p className="text-secondary text-center mb-4">
+        Projeto Resumir videos em textos, curtos e objetivos. 
+        Acesse o projeto <a href="https://resume-ai-gamma.vercel.app/" className="text-blue-500 underline">aqui</a>.
+      </p>
+      <Image
+        src={resumeAI}
+        alt="Imagem do projeto Parttida"
+        width={700}
+        height={600}
+        className="rounded-lg cursor-pointer hover:scale-105 transition-transform"
+      />
+    </div>
     {/* Projeto Parttida */}
     <div className="flex flex-col items-center">
       <h2 className="text-xl font-semibold text-green-600">Parttida</h2>
