@@ -34,7 +34,7 @@ export default function Home() {
           className="max-w-lg animate-in text-primary"
           style={{ "--index": 2 }}
         >
-          Olá, sou o Marcos, tenho 18 anos e comecei a estudar programação em junho de 2023. 
+          Olá, sou o Marcos, nasci em 2006 e comecei a estudar programação em junho de 2023. 
           Atualmente, trabalho como analista de rentabilidade, onde utilizo bastante Python e SQL no dia a dia.
            Paralelamente, faço freelancers desenvolvendo aplicações com Next.js e TailwindCSS, 
            e já tive experiências trabalhando com Java e Spring Boot em projetos anteriores.
