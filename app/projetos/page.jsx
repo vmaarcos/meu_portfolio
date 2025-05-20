@@ -30,7 +30,7 @@ export default function Contact() {
   <div className="flex flex-col w-full gap-6">
       {/* Projeto Verbum */}
       <div className="flex flex-col items-center">
-      <h2 className="text-xl font-semibold text-green-600">Verbum</h2>
+      <h2 className="text-xl font-semibold text-green-300">Verbum</h2>
       <p className="text-secondary text-center mb-4">
       O Verbum é a plataforma ideal para quem deseja entender e interpretar a Bíblia de forma clara e acessível. Com explicações teológicas, contexto bíblico e recursos para todos, buscamos proporcionar uma experiência de aprendizado profunda e enriquecedora.<a href="https://verbum-tau.vercel.app/" className="text-blue-500 underline">aqui</a>.
       </p>
@@ -45,7 +45,7 @@ export default function Contact() {
 
      {/* Projeto Resume-AI */}
      <div className="flex flex-col items-center">
-      <h2 className="text-xl font-semibold text-green-600">Resume-AI</h2>
+      <h2 className="text-xl font-semibold text-blue-600">Resume-AI</h2>
       <p className="text-secondary text-center mb-4">
         Projeto Resumir videos em textos, curtos e objetivos. 
         Acesse o projeto <a href="https://resume-ai-gamma.vercel.app/" className="text-blue-500 underline">aqui</a>.
