@@ -4,8 +4,6 @@ Este é o meu portfólio pessoal, desenvolvido com foco em simplicidade e uma in
 
 ## Tecnologias Utilizadas
 
-Este projeto é predominantemente focado no desenvolvimento front-end.
-
 ### Frontend:
 
 - [Tailwind CSS](https://tailwindcss.com/) - utilizado para a estilização geral do projeto.
