@@ -36,7 +36,7 @@ export default function Home() {
         >
           Olá, sou o Marcos, nasci em 2006 e comecei a estudar programação em junho de 2023. 
           Atualmente, trabalho como analista de rentabilidade, onde utilizo bastante Python e SQL no dia a dia.
-           Paralelamente, faço freelancers desenvolvendo aplicações com Next.js e TailwindCSS, 
+           Paralelamente faço freelancers desenvolvendo aplicações com Next.js e TailwindCSS, 
            e já tive experiências trabalhando com Java e Spring Boot em projetos anteriores.
         </p>
         <ul
