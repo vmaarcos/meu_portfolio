@@ -5,8 +5,7 @@ import {
   SiNextdotjs,
   SiTailwindcss,
   SiPython, 
-  SiMysql,
-  SiJava
+  SiMysql
 } from "react-icons/si";
 
 import Halo from "@/components/ui/Halo";
@@ -26,7 +25,6 @@ export default function TechIcon() {
           <SiNextdotjs className={clsx("w-[2.4rem] h-[2.4rem] text-next dark:text-white")} />
           <SiPython className={clsx("w-[2.4rem] h-[2.4rem] text-python")} /> 
           <SiMysql className={clsx("w-[2.4rem] h-[2.4rem] text-mysql")} />
-          <SiJava className={clsx("w-[2.4rem] h-[2.4rem] text-java")} />
         </div>
       </div>
     </Halo>
