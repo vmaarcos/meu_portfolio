@@ -48,7 +48,7 @@ Além da tecnologia, também sou apaixonado por esportes. Pratico corrida, faço
             style={{ "--index": 6 }}
           >
             <p>
-Atualmente, sou analista no Itaú, onde atuo com foco em dados e inteligência de negócio. No dia a dia, trabalho principalmente com Python, SQL Server, visualização de dados e apoio na tomada de decisões estratégicas e analíticas.
+Atualmente, sou analista, onde atuo com foco em dados e trade surveillance. Trabalho principalmente com AWS, SQL Server e visualização de dados.
 Também sou apaixonado por desenvolvimento web e gosto muito de criar projetos usando Next.js e TailwindCSS.
             </p>
             <p>
