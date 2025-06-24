@@ -1,7 +1,7 @@
 import Section from "@/components/Section";
 
 export const metadata = {
-  title: "v.aarcos | About",
+  title: "v.maarcos | About",
   description:
     "Eu sou um desenvolvedor/analista que basicamente gosta de criar algumas coisas.",
 };
@@ -32,12 +32,9 @@ export default function About() {
           >
             <h1>Hello World, Eu sou Marcos!</h1>
             <p>
-            Meu nome é Marcos Vinicios, nasci em 2006 e sempre morei na periferia. 
-            Nasci em Taboão da Serra, mas atualmente moro em Ferraz de Vasconcelos, no extremo leste de São Paulo. 
-            Aos 17 anos, no meu último ano do ensino médio, vi na tecnologia uma oportunidade de transformar minha vida. 
-            Sempre gostei de passar o dia todono computador, então foi algo que se encaixou perfeitamente.
-            Além da programação, sou apaixonado por esportes — pratico corrida, academia e boxe. E claro, 
-            nunca dispenso uma viagem para a praia!
+           Meu nome é Marcos Vinicios, nasci em 2006 e sempre vivi na periferia no extremo leste de São Paulo.
+Aos 17 anos, no meu último ano do ensino médio, descobri na tecnologia uma oportunidade de transformar a minha vida. Sempre fui apaixonado por computadores e passava horas neles, então a programação surgiu como algo que se encaixava perfeitamente comigo.
+Além da tecnologia, também sou apaixonado por esportes. Pratico corrida, faço academia e boxe. E, é claro, nunca dispenso uma boa viagem para a praia!
             </p>
           </div>
         </Section>
@@ -51,12 +48,11 @@ export default function About() {
             style={{ "--index": 6 }}
           >
             <p>
-            Em geral trabalho com Python, SQL Server, gráficos, e tomadas de decisões estratégicas e analíticas. 
-            também adoro projetos em NextJS e TailwindCSS.
+Atualmente, sou analista no Itaú, onde atuo com foco em dados e inteligência de negócio. No dia a dia, trabalho principalmente com Python, SQL Server, visualização de dados e apoio na tomada de decisões estratégicas e analíticas.
+Também sou apaixonado por desenvolvimento web e gosto muito de criar projetos usando Next.js e TailwindCSS.
             </p>
             <p>
-            Quando não estou no quarto ou no escritorio estudando ou trabalhando, 
-            provavelmente estou em alguma cafeteria. 
+Quando não estou no quarto ou no escritório estudando ou trabalhando, é bem provável que você me encontre em alguma cafeteria por aí, recarregando as ideias.
             </p>
           </div>
         </Section>
